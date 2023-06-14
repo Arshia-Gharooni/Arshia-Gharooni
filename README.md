@@ -1,12 +1,7 @@
 ### This is Arshia 👋
-
-## Github Status
-<center>
-<img src="https://github-readme-stats.vercel.app/api?username=Ars030203&show_icons=True"/>
-</center>
-
-
-
+just a CS Student learning and fascinated by algorithms 
+<br>
+Open for research collabration
 
 ## Contact
 
