@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello👋
 
-<!--
-**Arshia-Gharooni/Arshia-Gharooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is [Arshia](https://github.com/arshia-gharooni)！I'm a CS Student who is fascinated by algorithms.**
 
-Here are some ideas to get you started:
+My fields of interests are concentrated at the intersection of two pivotal domains:
+-  Multi-agent systems
+-  Reinforcement Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/Arshia_Gharooni)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:arshiyagharoony@gmail.com)
+[![Academic Email](https://img.shields.io/badge/Academic%20Email-white?style=flat&logo=maildotru&logoColor=black&link=mailto:a.gharooni@iau.ir)](mailto:a.gharooni@iau.ir)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Arshia-Gharooni)
+
+
+
+##  About
+
+-  My Website: https://arshia-gharooni.github.io
+-  How to reach me: Arshiyagharoony@gmail.com
